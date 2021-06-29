@@ -232,23 +232,24 @@ footer h3{
 
 @media(max-width: 468px){
 
+	
 	#home h1{
-		font-size: 25px !important;
+		font-size: 30px !important;
 		margin-top: 90px;
 	}
 	#home h2{
-		font-size: 25px !important;
+		font-size: 30px !important;
 	}
 	.hero-img{
-		height: 303px !important;
+		height: 343px !important;
 		width: 320px;
-		margin-top:-17px;
+		margin-top:10px;
 	}
 	#home .btn{
 		margin-top: 10px;
-		height: 45px;
-		width: 110px;
-		font-size: 14px;
+		height: 50px;
+		width: 120px;
+		font-size: 16px;
 	}
 	.details h3{
 		font-size: 30px;
